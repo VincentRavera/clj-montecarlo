@@ -1,0 +1,19 @@
+#+TITLE: Montecarlo simulations
+
+Simlations, using montcarlo, using clojure.
+
+source:
+https://ggcarvalho.dev/posts/montecarlo/
+
+
+* Usage
+
+#+begin_src bash
+lein run
+#+end_src
+
+Or
+
+#+begin_src bash
+java -jar clj-montecarlo-0.1.0-standalone.jar [args]
+#+end_src
